@@ -1,5 +1,7 @@
 
-# 🛡️ SafeSpace — Women's Safety & Support Platform
+#  SafeSpace — Women's Safety & Support Platform
+<img width="477" height="806" alt="image" src="https://github.com/user-attachments/assets/74423ebd-ccfd-4513-9387-443706326231" />
+<img width="472" height="807" alt="image" src="https://github.com/user-attachments/assets/94d17ac2-b6ca-49e0-878c-d2854a933cde" />
 
 
 A mobile and web platform designed to support women's safety, providing emergency tools, community support, shelter maps, and resources — all in one place.
@@ -31,7 +33,7 @@ A mobile and web platform designed to support women's safety, providing emergenc
 
 ```
 safespace/
-├── flutter/                  # Mobile app
+├── app/                  # Mobile app
 │   └── lib/
 │       ├── main.dart
 │       ├── screens/
@@ -44,7 +46,7 @@ safespace/
 │       │   └── chat_screen.dart
 │       ├── widgets/
 │       └── theme/app_theme.dart
-└── web/                      # React web app
+└── safespace-web/                      # React web app
     └── src/
         ├── App.jsx
         ├── pages/
@@ -63,7 +65,7 @@ safespace/
 ## Run the Web App
 
 ```bash
-cd web
+cd safespace-web
 npm install
 npm run dev
 ```
@@ -71,7 +73,7 @@ npm run dev
 ## Run the Flutter App
 
 ```bash
-cd flutter
+cd app
 flutter pub get
 flutter run
 ```
