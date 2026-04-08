@@ -2,11 +2,12 @@
 #  SafeSpace — Women's Safety & Support Platform
 
 A mobile and web platform designed to support women's safety, providing emergency tools, community support, shelter maps, and resources — all in one place.
+
 <p align="center">
- <img src="(https://github.com/user-attachments/assets/74423ebd-ccfd-4513-9387-443706326231)" width="30%">
-  <img src="(https://github.com/user-attachments/assets/94d17ac2-b6ca-49e0-878c-d2854a933cde)" width="30%">
-  <img src="(https://github.com/user-attachments/assets/6ead5beb-0219-4136-9836-23c93bdb8ef8)" width="30%">
-  </p>
+  <img src="https://github.com/user-attachments/assets/74423ebd-ccfd-4513-9387-443706326231" width="30%">
+  <img src="https://github.com/user-attachments/assets/94d17ac2-b6ca-49e0-878c-d2854a933cde" width="30%">
+  <img src="https://github.com/user-attachments/assets/6ead5beb-0219-4136-9836-23c93bdb8ef8" width="30%">
+</p>
 
 
 ---
