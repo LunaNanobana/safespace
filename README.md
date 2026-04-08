@@ -92,4 +92,4 @@ flutter run
 
 ---
 
-*Built at Women's Hack Day 5th · 2026 · 2nd Place*
+
